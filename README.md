@@ -1,6 +1,6 @@
-## Sandun de Silva
+## 👋 Hello! I'm Sandun de Silva.
 
-Currently, I am working as an Associate Software Engineer in the software industry.
+Currently, I am working as an associate Software Engineer in the software industry, with experience in developing CRUD applications using Spring Boot and Django REST frameworks. I have hands-on experience with AWS hosting and have also developed user interfaces using React.js.
 
 ---
 
