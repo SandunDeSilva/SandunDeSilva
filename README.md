@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Sandun de Silva.
 
-Currently, I am working as an associate Software Engineer in the software industry, with experience in developing CRUD applications using Spring Boot and Django REST frameworks. I have hands-on experience with AWS hosting and have also developed user interfaces using React.js.
+I am currently working as an Associate Software Engineer in the software industry, with experience in developing robust CRUD applications using Spring Boot and Django REST frameworks. I have practical experience with cloud platforms including AWS, Google Cloud Platform, and Alibaba Cloud, and have also built responsive user interfaces using React.js.
 
 ---
 
